@@ -4,7 +4,8 @@
 ![Adalight-Rainbow](http://i.imgur.com/sHygxq9.jpg)
 
 ## Important Notice
-As the main project now includes grouping of LEDs, it's recommended to use it instead of this fork.
+As the main project now includes grouping of LEDs, it's recommended to use it instead of this fork:
+
 https://github.com/dmadison/Adalight-FastLED
 
 ## Synopsis
